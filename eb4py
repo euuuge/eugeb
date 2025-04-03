@@ -1,0 +1,4 @@
+
+fruta = ("manzana", "pera", "uva", "mandarina")
+for frutas in fruta:
+    print(frutas)
