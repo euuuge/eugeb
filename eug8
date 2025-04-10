@@ -1,0 +1,9 @@
+
+import random
+lista_numeros = []
+for _ in range(20):
+    numero = random.randint(1, 100)
+    lista_numeros.append(numero)
+    
+print("lista de numeros aleatorios:")
+print(lista_numeros)
