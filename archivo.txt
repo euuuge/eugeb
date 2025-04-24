@@ -1,0 +1,5 @@
+archivo = open "C:\Users\Labo\Downloads\consumo_bandwidth (1).log"
+contenido = archivo.read()
+print(contenido)
+archivo.close()
+
